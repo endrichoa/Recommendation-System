@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+nltk
+scikit-learn
+kaggle==1.5.12
+requests==2.23.0
+tqdm==4.64.1
